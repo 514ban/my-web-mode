@@ -1,3 +1,9 @@
 # My Web Mode
 
 This repository contains custom configurations for `web-mode` in Emacs.
+
+emacs-version: "GNU Emacs 29.3 (build 2, x86_64-w64-mingw32) of 2024-03-25"
+web-mode 20240804.821
+css-mode built-in. (to import the list of properties and values)
+cape 20240717.816
+corfu 20240720.842
